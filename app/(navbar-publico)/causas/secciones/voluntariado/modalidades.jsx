@@ -1,9 +1,9 @@
 'use client';
 import React from 'react';
 import Image from 'next/image';
-import imgmFilantropia from '../../../../../assets/paginaCausas/mFilantropia.jpg';
+import imgmFilantropia from '../../../../../assets/paginaCausas/mfilantropia.jpg';
 import imgmrsu from '../../../../../assets/paginaCausas/mrsu.jpg';
-import imgmAcademico from '../../../../../assets/paginaCausas/mAcademico.jpg';
+import imgmAcademico from '../../../../../assets/paginaCausas/macademico.jpg';
 import '../../../../../styles/components/paginaCausas/_voluntariado.scss';
 
 
